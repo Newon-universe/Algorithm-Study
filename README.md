@@ -38,7 +38,7 @@ DFS / [BOJ] N과 M / 코드.Swift , 해설.MD
 git commit -m "[BOJ] N과 M / 뉴원 / 보통" -m "https://www.acmicpc.net/problem/15649"
 ```
 
-- 플랫폼 작성법 통일:
+- 플랫폼 태그:
   - [BOJ] - 백준
   - [PGS] - 프로그래머스
   - [LTC] - 리트코드
