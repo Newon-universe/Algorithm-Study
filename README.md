@@ -24,7 +24,7 @@
 
 ```
 폴더 구조
-DFS / [BOJ] N과 M / [BOJ]N과 M.Swift , [BOJ]N과 M_해설.MD
+DFS / [BOJ] N과 M / 문제.Swift , 해설.MD
 ```  
   
 발표 1 시간 전까지 해설할 내용을 Pull Request 를 진행해주세요.
