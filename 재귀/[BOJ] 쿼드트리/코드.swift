@@ -2,8 +2,6 @@
 //  1992_쿼드트리.swift
 //  Algorithm For Final Swift
 //
-//  Created by Kim Yewon on 2023/02/01.
-//
 
 func quard (y: Int, x: Int, size: Int) -> String {
     if size == 1 {
